@@ -21,7 +21,7 @@
     
     -Import SQL file available [ Database/maternity.sql ]
     
-    -FullPath [[http://localhost/Maternity-Systen-with-SMS-API-Intergration-/Database/herbsue.sql/]]
+    -FullPath [[http://localhost/Maternity-Systen-with-SMS-API-Intergration-/Database/maternity.sql/]]
 
 # Run the Project
      -Visit [http://localhost/Maternity-Systen-with-SMS-API-Intergration- ] on Your Browser.
@@ -33,6 +33,7 @@
       Maternals => UserName:  Avina        Pass: 12345
       
       Medical officer    url:"localhost/Maternity-Systen-with-SMS-API-Intergration-/admin.php" 
+      
       Medical Officer => UserName:  administrator       Pass: 12345
        
        
