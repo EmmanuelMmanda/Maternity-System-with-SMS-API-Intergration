@@ -30,11 +30,10 @@
 
 # User Credentials 
 
-      Admin => UserName:  Admin        Pass: 1234
+      Maternals => UserName:  Avina        Pass: 12345
       
-      Practitioner => UserName:Jeme    Pass: 1234
-       
-      Patient => UserName:  lulu       Pass: 1234
+      Medical officer    url:"localhost/Maternity-Systen-with-SMS-API-Intergration-/admin.php" 
+      Medical Officer => UserName:  administrator       Pass: 12345
        
        
 # Project Remarks and Features
