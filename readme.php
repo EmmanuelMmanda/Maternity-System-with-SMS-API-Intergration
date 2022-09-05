@@ -42,7 +42,7 @@
               
             </p>
           <p> The System has been intergrated with an SMS API that allow medical Officers to send Approved Appointments Notifications through mobile SMS .
-            <h3>Features of Herbal Information System</h3>
+            <h3>Features of Maternity System</h3>
             <ul>
                 <li>Maternals Appointments</li>
                 <li>Mobile SMS Notifiications</li>
@@ -54,7 +54,7 @@
             <div>
                 <div style="display: flex;">
                     <div>
-                        <img src="upload/user.png" alt="usericon" width="110px" height="110px">
+                        <img src="images/favicon.ico" alt="usericon" width="110px" height="110px">
                     </div>
                     <div>
                         <p> Developed By: Emmanuel Mmanda </p>
