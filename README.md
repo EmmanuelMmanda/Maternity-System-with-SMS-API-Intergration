@@ -9,6 +9,10 @@
     -XAMPP Installed - 8.0.0 | Port 80  
     -PHP -v8 >
     -Mysql -v8.0 > 
+    -BeemAfrica SMS API  - [GET API NOW](#https://beem.africa/beem-api/)
+ 
+    <a href="https://www.google.com/" target="_blank">GET API NOW</a>
+    
     
 
 # Installation Procedures
