@@ -1,6 +1,6 @@
 <!--API Configuration for Sending text messages-->
-$api_key='0e202e87941163b0';
-$secret_key = 'ODY5NTQyMjczM2E1NmYxYmM1NTdmNDE5MTg4YjJlZDk5N2I0ZmM0OWMzODI3MjUzZTg4OTZiOTkyYmQzMWIxOA==';
+$api_key='ENTER YOUR BEEM API KEY HERE !!!';
+$secret_key = 'BEEM_AFRICA SECRET KEY HERE';
 
 $postData = array(
     'source_addr' => 'INFO',
