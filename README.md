@@ -1,7 +1,7 @@
 # Getting Started with Maternity System with SMS API Intergration.
-<img
-  src="https://github.com/EmmanuelMmanda/Maternity-Systen-with-SMS-API-Intergration/blob/main/maternalsgit.PNG"
+<img src="https://github.com/EmmanuelMmanda/Maternity-System-with-SMS-API-Intergration/blob/master/maternalsgit.PNG"
   alt="HIS"
+  width="100%"
   title="Herbal Information System"
   style="display: inline-block; margin: 0 auto; max-width: 700px">
 
